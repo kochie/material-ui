@@ -16378,10 +16378,11 @@ void-elements@^2.0.0:
   integrity sha1-wGavtYK7HLQSjWDqkjkulNXp2+w=
 
 vrtest-mui@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/vrtest-mui/-/vrtest-mui-0.3.3.tgz#0aaa017f604e0fa929e91269d8b225e2d7d4d930"
-  integrity sha512-GqHc+7g6It6a+7Asdg2Bjqbrmq0EefZvDGE4tNlXeKaokXyR+sH9Ut4iyLdOG5tTHgg5qpkhiB8tRSrb571eJg==
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/vrtest-mui/-/vrtest-mui-0.3.4.tgz#fae794f6b738523671d5b0385ec5596988a63fb1"
+  integrity sha512-Qcp6Y7iDE2nU9z9HWdIeWvrTIWv6MJoEal+2wdHZ0XpfC5zPksWuDkAa59FLKZL+gXxdfdORCDPYetya8KIM5g==
   dependencies:
+    babel-runtime "^6.26.0"
     chalk "^1.1.3"
     commander "^2.9.0"
     ejs "^2.5.5"
